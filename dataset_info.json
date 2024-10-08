@@ -1,0 +1,635 @@
+{
+    "train_total": 5037,
+    "valid_total": 1058,
+    "test_total": 1117,
+    "train": [
+        {
+            "label": "queen of clubs",
+            "qtd": 100
+        },
+        {
+            "label": "ten of diamonds",
+            "qtd": 100
+        },
+        {
+            "label": "four of hearts",
+            "qtd": 100
+        },
+        {
+            "label": "two of spades",
+            "qtd": 100
+        },
+        {
+            "label": "two of clubs",
+            "qtd": 94
+        },
+        {
+            "label": "nine of spades",
+            "qtd": 100
+        },
+        {
+            "label": "jack of hearts",
+            "qtd": 100
+        },
+        {
+            "label": "two of hearts",
+            "qtd": 100
+        },
+        {
+            "label": "nine of hearts",
+            "qtd": 96
+        },
+        {
+            "label": "seven of clubs",
+            "qtd": 79
+        },
+        {
+            "label": "eight of clubs",
+            "qtd": 100
+        },
+        {
+            "label": "five of hearts",
+            "qtd": 98
+        },
+        {
+            "label": "four of spades",
+            "qtd": 100
+        },
+        {
+            "label": "six of hearts",
+            "qtd": 92
+        },
+        {
+            "label": "three of clubs",
+            "qtd": 91
+        },
+        {
+            "label": "ace of diamonds",
+            "qtd": 93
+        },
+        {
+            "label": "jack of spades",
+            "qtd": 100
+        },
+        {
+            "label": "six of diamonds",
+            "qtd": 100
+        },
+        {
+            "label": "three of spades",
+            "qtd": 100
+        },
+        {
+            "label": "eight of hearts",
+            "qtd": 100
+        },
+        {
+            "label": "queen of hearts",
+            "qtd": 100
+        },
+        {
+            "label": "ace of spades",
+            "qtd": 100
+        },
+        {
+            "label": "five of clubs",
+            "qtd": 100
+        },
+        {
+            "label": "five of diamonds",
+            "qtd": 100
+        },
+        {
+            "label": "eight of diamonds",
+            "qtd": 100
+        },
+        {
+            "label": "ten of hearts",
+            "qtd": 93
+        },
+        {
+            "label": "three of diamonds",
+            "qtd": 100
+        },
+        {
+            "label": "ten of spades",
+            "qtd": 100
+        },
+        {
+            "label": "eight of spades",
+            "qtd": 98
+        },
+        {
+            "label": "jack of clubs",
+            "qtd": 100
+        },
+        {
+            "label": "king of spades",
+            "qtd": 100
+        },
+        {
+            "label": "seven of diamonds",
+            "qtd": 90
+        },
+        {
+            "label": "seven of hearts",
+            "qtd": 100
+        },
+        {
+            "label": "four of diamonds",
+            "qtd": 83
+        },
+        {
+            "label": "king of hearts",
+            "qtd": 91
+        },
+        {
+            "label": "six of spades",
+            "qtd": 100
+        },
+        {
+            "label": "six of clubs",
+            "qtd": 100
+        },
+        {
+            "label": "three of hearts",
+            "qtd": 82
+        },
+        {
+            "label": "king of clubs",
+            "qtd": 93
+        },
+        {
+            "label": "jack of diamonds",
+            "qtd": 100
+        },
+        {
+            "label": "nine of clubs",
+            "qtd": 90
+        },
+        {
+            "label": "seven of spades",
+            "qtd": 100
+        },
+        {
+            "label": "five of spades",
+            "qtd": 100
+        },
+        {
+            "label": "four of clubs",
+            "qtd": 100
+        },
+        {
+            "label": "queen of spades",
+            "qtd": 100
+        },
+        {
+            "label": "ace of clubs",
+            "qtd": 87
+        },
+        {
+            "label": "king of diamonds",
+            "qtd": 98
+        },
+        {
+            "label": "two of diamonds",
+            "qtd": 96
+        },
+        {
+            "label": "ten of clubs",
+            "qtd": 100
+        },
+        {
+            "label": "ace of hearts",
+            "qtd": 100
+        },
+        {
+            "label": "queen of diamonds",
+            "qtd": 100
+        },
+        {
+            "label": "nine of diamonds",
+            "qtd": 93
+        }
+    ],
+    "valid": [
+        {
+            "label": "queen of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "ten of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "four of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "two of spades",
+            "qtd": 21
+        },
+        {
+            "label": "two of clubs",
+            "qtd": 20
+        },
+        {
+            "label": "nine of spades",
+            "qtd": 21
+        },
+        {
+            "label": "jack of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "two of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "nine of hearts",
+            "qtd": 20
+        },
+        {
+            "label": "seven of clubs",
+            "qtd": 16
+        },
+        {
+            "label": "eight of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "five of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "four of spades",
+            "qtd": 21
+        },
+        {
+            "label": "six of hearts",
+            "qtd": 19
+        },
+        {
+            "label": "three of clubs",
+            "qtd": 19
+        },
+        {
+            "label": "ace of diamonds",
+            "qtd": 20
+        },
+        {
+            "label": "jack of spades",
+            "qtd": 21
+        },
+        {
+            "label": "six of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "three of spades",
+            "qtd": 21
+        },
+        {
+            "label": "eight of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "queen of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "ace of spades",
+            "qtd": 21
+        },
+        {
+            "label": "five of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "five of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "eight of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "ten of hearts",
+            "qtd": 20
+        },
+        {
+            "label": "three of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "ten of spades",
+            "qtd": 21
+        },
+        {
+            "label": "eight of spades",
+            "qtd": 21
+        },
+        {
+            "label": "jack of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "king of spades",
+            "qtd": 21
+        },
+        {
+            "label": "seven of diamonds",
+            "qtd": 19
+        },
+        {
+            "label": "seven of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "four of diamonds",
+            "qtd": 17
+        },
+        {
+            "label": "king of hearts",
+            "qtd": 19
+        },
+        {
+            "label": "six of spades",
+            "qtd": 21
+        },
+        {
+            "label": "six of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "three of hearts",
+            "qtd": 17
+        },
+        {
+            "label": "king of clubs",
+            "qtd": 19
+        },
+        {
+            "label": "jack of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "nine of clubs",
+            "qtd": 19
+        },
+        {
+            "label": "seven of spades",
+            "qtd": 21
+        },
+        {
+            "label": "five of spades",
+            "qtd": 21
+        },
+        {
+            "label": "four of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "queen of spades",
+            "qtd": 21
+        },
+        {
+            "label": "ace of clubs",
+            "qtd": 18
+        },
+        {
+            "label": "king of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "two of diamonds",
+            "qtd": 20
+        },
+        {
+            "label": "ten of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "ace of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "queen of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "nine of diamonds",
+            "qtd": 20
+        }
+    ],
+    "test": [
+        {
+            "label": "queen of clubs",
+            "qtd": 22
+        },
+        {
+            "label": "ten of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "four of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "two of spades",
+            "qtd": 22
+        },
+        {
+            "label": "two of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "nine of spades",
+            "qtd": 22
+        },
+        {
+            "label": "jack of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "two of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "nine of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "seven of clubs",
+            "qtd": 18
+        },
+        {
+            "label": "eight of clubs",
+            "qtd": 22
+        },
+        {
+            "label": "five of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "four of spades",
+            "qtd": 22
+        },
+        {
+            "label": "six of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "three of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "ace of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "jack of spades",
+            "qtd": 22
+        },
+        {
+            "label": "six of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "three of spades",
+            "qtd": 22
+        },
+        {
+            "label": "eight of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "queen of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "ace of spades",
+            "qtd": 22
+        },
+        {
+            "label": "five of clubs",
+            "qtd": 22
+        },
+        {
+            "label": "five of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "eight of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "ten of hearts",
+            "qtd": 21
+        },
+        {
+            "label": "three of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "ten of spades",
+            "qtd": 22
+        },
+        {
+            "label": "eight of spades",
+            "qtd": 21
+        },
+        {
+            "label": "jack of clubs",
+            "qtd": 22
+        },
+        {
+            "label": "king of spades",
+            "qtd": 22
+        },
+        {
+            "label": "seven of diamonds",
+            "qtd": 20
+        },
+        {
+            "label": "seven of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "four of diamonds",
+            "qtd": 19
+        },
+        {
+            "label": "king of hearts",
+            "qtd": 20
+        },
+        {
+            "label": "six of spades",
+            "qtd": 22
+        },
+        {
+            "label": "six of clubs",
+            "qtd": 22
+        },
+        {
+            "label": "three of hearts",
+            "qtd": 19
+        },
+        {
+            "label": "king of clubs",
+            "qtd": 21
+        },
+        {
+            "label": "jack of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "nine of clubs",
+            "qtd": 20
+        },
+        {
+            "label": "seven of spades",
+            "qtd": 22
+        },
+        {
+            "label": "five of spades",
+            "qtd": 22
+        },
+        {
+            "label": "four of clubs",
+            "qtd": 22
+        },
+        {
+            "label": "queen of spades",
+            "qtd": 22
+        },
+        {
+            "label": "ace of clubs",
+            "qtd": 20
+        },
+        {
+            "label": "king of diamonds",
+            "qtd": 21
+        },
+        {
+            "label": "two of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "ten of clubs",
+            "qtd": 22
+        },
+        {
+            "label": "ace of hearts",
+            "qtd": 22
+        },
+        {
+            "label": "queen of diamonds",
+            "qtd": 22
+        },
+        {
+            "label": "nine of diamonds",
+            "qtd": 21
+        }
+    ]
+}
